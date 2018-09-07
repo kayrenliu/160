@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ElectricTime160</string>
+    <string name="transportType">Transport Type</string>
+    <string name="calculateMileage">Calculate</string>
+    <string name="numberOfMiles">Enter Mileage</string>
+    <string name="fromValue">From</string>
+    <string name="toValue">To</string>
+</resources>

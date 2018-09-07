@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="typesOfTransport2">
+        <item>None</item>
+        <item>Walking</item>
+        <item>Boosted Mini S Board</item>
+        <item>Evolve Skateboard</item>
+        <item>Segway i2 SE</item>
+        <item>Hovertrax Hoverboard</item>
+    </string-array>
+</resources>
