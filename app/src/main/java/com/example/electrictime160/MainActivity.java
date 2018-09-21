@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
         fromSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-                fromSelectedItem[0] = parent.getItemAtPosition(position).toString(); //this is your selected it
+                fromSelectedItem[0] = parent.getItemAtPosition(position).toString(); //this is your selected item
             }
 
             public void onNothingSelected(AdapterView<?> parent) { }
